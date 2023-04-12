@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "DKCamera",
-        "repositoryURL": "https://github.com/jgj0131/DKCamera",
+        "repositoryURL": "https://github.com/jgj0131/DKCamera.git",
         "state": {
           "branch": "develop",
           "revision": "7d21a3b93a4d15a07f3306269cdbd2bd6933e1dd",
